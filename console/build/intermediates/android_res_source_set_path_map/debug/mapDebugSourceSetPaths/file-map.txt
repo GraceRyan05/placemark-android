@@ -1,0 +1,8 @@
+org.setu.placemark.console-pngs-0 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\build\generated\res\pngs\debug
+org.setu.placemark.console-updated_navigation_xml-1 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\build\generated\updated_navigation_xml\debug
+org.setu.placemark.console-packageDebugResources-2 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.setu.placemark.console-packageDebugResources-3 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.setu.placemark.console-debug-4 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\build\intermediates\merged_res\debug\mergeDebugResources
+org.setu.placemark.console-debug-5 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\src\debug\res
+org.setu.placemark.console-main-6 C:\Users\Administrator\AndroidStudioProjects\Placemark2\console\src\main\res
+gradleHome-0 C:\Users\Administrator\.gradle
